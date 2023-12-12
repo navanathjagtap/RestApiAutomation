@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Set up Env') {
             steps {
-                git 'https://github.com/navanathjagtap/MultipleXMLTestRunner.git'
+                git 'https://github.com/navanathjagtap/RestApiAutomation.git'
                 echo 'Multiple XML Runner'
             }
         }
