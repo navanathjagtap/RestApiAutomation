@@ -9,7 +9,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class UserEndPoints2 {
-	
+	//demo run
 	//method created for getting URL
 	//run on local cmd --> mvn test 
 	static ResourceBundle getURL() {
