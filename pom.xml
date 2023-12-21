@@ -5,7 +5,7 @@
 	<groupId>RestApiAutomation</groupId>
 	<artifactId>RestApiAutomation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+<!-- 1 -->
 
 	<build>
 		<pluginManagement>
